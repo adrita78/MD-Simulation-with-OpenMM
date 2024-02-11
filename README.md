@@ -1,2 +1,2 @@
-# MDtraj-Analysis
+# OpenMM
 
